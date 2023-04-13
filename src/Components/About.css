@@ -1,0 +1,21 @@
+.about h1{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.about h2{
+    font-size:2rem;
+    margin-bottom: 1rem;
+}
+.about p{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;;
+}
+.about ul{
+    list-style: disc;
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+}
+.about li{
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}

@@ -1,0 +1,59 @@
+.signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width:100%;
+    padding:10px;
+    margin:50px;
+    
+}
+h1{
+    margin-bottom: 30px;
+    font-size:1.5rem;
+    text-align:center;
+}
+form{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+}
+label{
+    font-weight: bold;
+    margin-bottom:10px;
+}
+input{
+    width:100%;
+    padding:10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 5px 0px rgb(72, 69, 69);
+}
+button[type='submit']{
+    width:100%;
+    padding:10px;
+    margin-top:20px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    background-color: rgb(139, 82, 139);
+    color: beige;
+}
+button[type='submit']:hover{
+    background-color: rgb(144, 144, 234);
+}
+.bg-img{
+    background-position: center;
+    min-height: 300px;
+    width: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    /* align-items:center; */
+    background-image: url("C:\Users\USER\Documents\4-2\Aadhar payslips\Deepika Project\Retail-main\Retail-main\src\Components\retail1-bg.jpg");
+}
+

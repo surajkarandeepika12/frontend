@@ -1,0 +1,16 @@
+.div2{
+    padding: 320px;
+    background-image: url("C:\Users\USER\Documents\4-2\Aadhar payslips\Deepika Project\Retail-main\Retail-main\src\Components\frontpage.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:1400px;
+}
+.div3{
+    margin-top: 20px;
+    background-image: url("C:\Users\USER\Documents\4-2\Aadhar payslips\Deepika Project\Retail-main\Retail-main\src\Components\discount.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:2700;
+}

@@ -1,0 +1,14 @@
+.category-list-container{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: center;
+}
+.category-list-container li{
+    list-style: none;
+    margin-right: 40px;
+}
+.category-list-container li:last-child{
+    margin-right: 0;
+}
+
